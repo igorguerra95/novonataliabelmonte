@@ -1,0 +1,8 @@
+{
+  "name": "Remix Natalia Belmonte | Neuropsicologia \u0026 Psicoterapia",
+  "description": "Atendimento neuropsicológico e psicoterapia humanizada em Belém e online. Especialista em ansiedade, depressão, avaliação neuropsicológica e terapia de casal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
