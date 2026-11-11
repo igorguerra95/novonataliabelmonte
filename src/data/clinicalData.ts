@@ -27,8 +27,8 @@ export const CONTACT_INFO = {
   approach: 'Psicoterapia de base psicanalítica',
   education: 'Pós-graduanda em Neuropsicologia pelo Instituto de Ensino e Pesquisa Albert Einstein - SP',
   targetAudience: 'Adultos e Idosos',
-  phone: '(91) 98264-4888',
-  phoneRaw: '5591982644888',
+  phone: '(91) 98107-9612',
+  phoneRaw: '5591981079612',
   address: 'Tv. Rômulo Maiorana, nº 700 - Marco. Ed. Torre Vitta Office, sala 1506',
   neighborhood: 'Marco',
   city: 'Belém - PA',
@@ -41,7 +41,7 @@ export const CONTACT_INFO = {
     neuropsychology: 'Resolução CFP Nº 31/2022'
   },
   socialLinks: {
-    whatsapp: 'https://wa.me/5591982644888',
+    whatsapp: 'https://wa.me/5591981079612',
     linkedin: 'https://www.linkedin.com/in/nataliabelmonte',
     instagram: 'https://www.instagram.com/nataliabelmonte.psi',
     blog: '#artigos'

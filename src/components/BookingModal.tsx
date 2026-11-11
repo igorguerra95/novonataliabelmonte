@@ -171,7 +171,7 @@ export const BookingModal: React.FC<BookingModalProps> = ({
                   <input
                     type="tel"
                     required
-                    placeholder="Ex: (91) 98264-4888"
+                    placeholder="Ex: (91) 98107-9612"
                     value={formData.phone}
                     onChange={(e) => setFormData({ ...formData, phone: e.target.value })}
                     className="w-full px-3.5 py-2.5 rounded-xl border border-[#EADBCE] focus:border-[#D4AF37] outline-none text-sm bg-[#FAF7F5]"
